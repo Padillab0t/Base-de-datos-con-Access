@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxbtpRfCZXM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALUMNO-30\\source\\repos\\EscuelaBaseDeDatos\\EscuelaBaseDeDatos\\EscuelaBaseDeDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALUMNO-30\\.nuget\\packages\\system.data.oledb\\10.0.14\\system.data.oledb.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
